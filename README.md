@@ -629,6 +629,9 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Design Patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
 * [Design Patterns implemented in DotNet](https://www.dofactory.com/net/design-patterns)
 
+## Machine Coding - Low Level Design
+* [55+ LLD Blogs with Solutions](https://lldcoding.com)
+
 ## Data structures
 
 * [Top 15 Data Structures and Algorithm Interview Questions for Java programmer](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
