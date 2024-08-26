@@ -24,6 +24,7 @@ This project is no longer actively supported.
 Please read the [contribution guidelines](contributing.md) or [creating a list guide](create-list.md) if you want to contribute.
 
 ### Table of Contents
+- [Interview Preparation](#interview-preparation)
 
 - [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
   - [Android](#android)
@@ -97,6 +98,14 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 - [Networks](#networks)
 - [Security](#security)
 - [Data Science](#data-science)
+
+### INTERVIEW PREPARATION 
+
+* [Complete MAANG Preparation Content](https://github.com/shubhanshurav/Complete-MAANG-Preparation)
+* [Top Interview Questions](https://github.com/shubhanshurav/Interview-Preparation-Notes/tree/master/01..%20Top%20Interview%20Questions%20Lists)
+* [Interview Preparation Books](https://github.com/shubhanshurav/Interview-Preparation-Notes/tree/master/02..%20Interview-Preparation-Books)
+* [DSA Questions Sheet](https://github.com/shubhanshurav/Interview-Preparation-Notes/tree/master/03..%20DSA-SHEETS)
+* [Data Structure Complete Notes](https://github.com/shubhanshurav/Interview-Preparation-Notes)
 
 ## Programming Languages/Frameworks/Platforms
 
