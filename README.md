@@ -661,7 +661,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 * [Top Data Science Interview Questions](https://www.interviewbit.com/data-science-interview-questions/)
 
 
-  <br>
+<br>
 <br>
 
 [![Maintened by - Abhiram-Siriki45](https://img.shields.io/badge/Maintained%20by-Abhiram%20Siriki45-red)](https://github.com/Abhiram-Siriki45)
