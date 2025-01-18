@@ -100,7 +100,7 @@ Please read the [contribution guidelines](contributing.md) or [creating a list g
 
 ## Programming Languages/Frameworks/Platforms
 
-### Android
+## Android
 
 * [10 Android interview question answers for Freshers](http://www.careerride.com/android-interview-questions.aspx)
 * [20 Essential Android Interview Questions from Toptal](http://www.toptal.com/android/interview-questions)
